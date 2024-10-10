@@ -1,5 +1,5 @@
 # SkinScanNet
-Paper Title: A CNN-Based Model with Explainable AI for Reliable and Transparent Skin Cancer Detection.
+Paper Title: SkinScanNet: A CNN-Based Model with Explainable AI for Reliable and Transparent Skin Cancer Detection.
 Authors: Rakin Sad Aftab, Sultanul Arifeen Hamim, Mir Maruf Ahmed, S M Abdullah Shafi, Md. Mazid-Ul-Haque.
 Corrosponding Email: rakinsadaftab@gmail.com
 
