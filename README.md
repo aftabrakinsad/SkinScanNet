@@ -1,5 +1,5 @@
 # SkinScanNet
-Research Work: Skin Cancer detection.
+Research Work: Melanoma Skin Cancer Detection. 
 <table border="1">
   <tr>
     <th>Paper Title</th>
