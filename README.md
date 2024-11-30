@@ -19,7 +19,7 @@ Research Work: Melanoma Skin Cancer Detection.
   </tr>
   <tr>
     <th>Status</th>
-    <td>Under Review</td>
+    <td>Accepted for Presentation</td>
   </tr>
   <tr>
     <th>Code</th>
