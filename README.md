@@ -19,15 +19,11 @@ Research Work: Melanoma Skin Cancer Detection.
   </tr>
   <tr>
     <th>Status</th>
-    <td>Published</td>
+    <td>Accepted & Presented</td>
   </tr>
   <tr>
     <th>Code</th>
     <td>.py is available and .ipynb will be available upon request.</td>
-  </tr>
-  <tr>
-    <th>Cite</th>
-    <td>M. M. Billah, R. Sad Aftab, M. M. Ahmed and M. Shorif Uddin, "Deep Facial Recognition: Unraveling Kinship Patterns Among Strangers Using CNN," 2024 IEEE International Conference on Computing, Applications and Systems (COMPAS), Cox's Bazar, Bangladesh, 2024, pp. 1-9, doi: 10.1109/COMPAS60761.2024.10797096.</td>
   </tr>
 </table>
 
